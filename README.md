@@ -8,7 +8,7 @@ branch](https://github.com/jupyterhub/helm-chart/tree/gh-pages) _packaged_ Helm
 charts for the [frx-challenges](https://github.com/2i2c-org/unnamed-thingity-thing) project. These packaged Helm
 charts are made available as a valid [Helm chart
 repository](https://helm.sh/docs/chart_repository/) on [an automatically updated
-website](https://2i2c.org/frx-challenges-helm-chart/) thanks to [GitHub Pages][].
+website](https://2i2c.org/frx-challenges-helm-chart/) thanks to [GitHub Pages][https://pages.github.com/].
 We use [chartpress](https://github.com/jupyterhub/chartpress) to add package and add Helm charts to this Helm chart
 repository.
 
