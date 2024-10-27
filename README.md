@@ -8,14 +8,14 @@ branch](https://github.com/jupyterhub/helm-chart/tree/gh-pages) _packaged_ Helm
 charts for the [frx-challenges](https://github.com/2i2c-org/unnamed-thingity-thing) project. These packaged Helm
 charts are made available as a valid [Helm chart
 repository](https://helm.sh/docs/chart_repository/) on [an automatically updated
-website](https://2i2c.org/frx-challenges-helm-chart/) thanks to [GitHub Pages][https://pages.github.com/].
+website](https://2i2c.org/frx-challenges-helm-chart/) thanks to [GitHub Pages](https://pages.github.com/).
 We use [chartpress](https://github.com/jupyterhub/chartpress) to add package and add Helm charts to this Helm chart
 repository.
 
 
 ## Usage
 
-This Helm chart repository enables you to install a JupyterHub and BinderHub
+This Helm chart repository enables you to install the FRX Challenges
 Helm chart directly from it into your Kubernetes cluster. Please refer to the
 [JupyterHub Helm chart documentation](https://z2jh.jupyter.org) or the
 [BinderHub Helm chart documentation](https://binderhub.readthedocs.io) for all
@@ -23,14 +23,14 @@ the additional details required.
 
 ```shell
 # Let helm the command line tool know about a Helm chart repository
-# that we decide to name jupyterhub.
-helm repo add jupyterhub https://hub.jupyter.org/helm-chart/
+# that we decide to name frx-challenges.
+helm repo add frx-challenges https://hub.jupyter.org/helm-chart/
 helm repo update
 
 # Simplified example on how to install a Helm chart from a Helm chart repository
-# named jupyterhub. See the Helm chart's documentation for additional details
+# named frx-challenges. See the Helm chart's documentation for additional details
 # required.
-helm install jupyterhub/<helm chart name> --version <helm chart version>
+helm install frx-challenges/<helm chart name> --version <helm chart version>
 ```
 
 ## Local development of GitHub page
@@ -98,10 +98,8 @@ is to have one at all. Doing the following was tested by @consideRatio
 [Kubernetes]: https://kubernetes.io
 [Helm]: https://helm.sh
 [Chartpress]: https://github.com/jupyterhub/chartpress
-[JupyterHub]: https://github.com/jupyterhub/jupyterhub
 [Zero to JupyterHub K8s]: https://github.com/jupyterhub/zero-to-jupyterhub-k8s
 [KubeSpawner]: https://github.com/jupyterhub/kubespawner
-[BinderHub]: https://github.com/jupyterhub/binderhub
 [repo2docker]: https://github.com/jupyter/repo2docker
 [GitHub Pages]: https://pages.github.com/
 [Jekyll]: https://jekyllrb.com
