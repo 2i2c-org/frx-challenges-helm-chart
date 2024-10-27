@@ -1,1 +1,13 @@
-../index.yaml
+apiVersion: v1
+entries:
+  unnamed:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-10-27T12:24:09.715529529Z"
+    description: A Helm chart for Kubernetes
+    digest: 6213eaf28f4bf70258326122b9104e5648104d6e6bbe46b06542132dfaa5809c
+    name: unnamed
+    urls:
+    - https://2i2c.org/frx-challenges-helm-chart/unnamed-0.0.1-0.dev.git.350.hd446ca5.tgz
+    version: 0.0.1-0.dev.git.350.hd446ca5
+generated: "2024-10-27T12:24:09.715057332Z"
