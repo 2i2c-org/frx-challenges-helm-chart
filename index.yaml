@@ -10,4 +10,940 @@ entries:
     urls:
     - https://2i2c.org/frx-challenges-helm-chart/unnamed-0.0.1-0.dev.git.350.hd446ca5.tgz
     version: 0.0.1-0.dev.git.350.hd446ca5
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-10-25T18:06:10.54720125Z"
+    description: A Helm chart for Kubernetes
+    digest: 62067d27785f59338b317b4f03b49eaf4999a96f807a227f466a9c4ee142d6b5
+    name: unnamed
+    urls:
+    - https://2i2c.org/frx-challenges-helm-chart/unnamed-0.0.1-0.dev.git.343.h2396ced.tgz
+    version: 0.0.1-0.dev.git.343.h2396ced
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-10-25T16:19:58.662170932Z"
+    description: A Helm chart for Kubernetes
+    digest: 31313a9cb97a1756a229f9e3e47c11120bdfab1cf24528e0f9c575d206746b0c
+    name: unnamed
+    urls:
+    - https://2i2c.org/frx-challenges-helm-chart/unnamed-0.0.1-0.dev.git.341.hf18ac06.tgz
+    version: 0.0.1-0.dev.git.341.hf18ac06
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-10-25T13:26:58.247767949Z"
+    description: A Helm chart for Kubernetes
+    digest: 8bb1c74b26a6298c9af924aee9a2cd14367b056864c14382b3433c639c833fd8
+    name: unnamed
+    urls:
+    - https://2i2c.org/frx-challenges-helm-chart/unnamed-0.0.1-0.dev.git.338.ha89cbe5.tgz
+    version: 0.0.1-0.dev.git.338.ha89cbe5
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-10-25T13:26:14.956913687Z"
+    description: A Helm chart for Kubernetes
+    digest: 822199e94ff470b6ec4c0b1d7c4b947ff42d1cfbe0173a627bbb3a2b30cf705f
+    name: unnamed
+    urls:
+    - https://2i2c.org/frx-challenges-helm-chart/unnamed-0.0.1-0.dev.git.335.h4a069ab.tgz
+    version: 0.0.1-0.dev.git.335.h4a069ab
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-10-24T11:05:53.361102878Z"
+    description: A Helm chart for Kubernetes
+    digest: 4524b53972d39439654635c70bad2b59b243d85a0da93325df7cedb3dcebf903
+    name: unnamed
+    urls:
+    - https://2i2c.org/frx-challenges-helm-chart/unnamed-0.0.1-0.dev.git.333.h45173ac.tgz
+    version: 0.0.1-0.dev.git.333.h45173ac
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-10-23T12:00:51.605018131Z"
+    description: A Helm chart for Kubernetes
+    digest: 63efca4508c0b74eb8dab799d9552021e8314d93af83ec15d1c6cbdcf4ec2e57
+    name: unnamed
+    urls:
+    - https://2i2c.org/frx-challenges-helm-chart/unnamed-0.0.1-0.dev.git.331.hece6597.tgz
+    version: 0.0.1-0.dev.git.331.hece6597
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-10-23T10:26:44.727341052Z"
+    description: A Helm chart for Kubernetes
+    digest: 302465126d415d83e4b8aef173fc4d69d4814c7e7be5f032565506d4599626a4
+    name: unnamed
+    urls:
+    - https://2i2c.org/frx-challenges-helm-chart/unnamed-0.0.1-0.dev.git.329.ha602ff2.tgz
+    version: 0.0.1-0.dev.git.329.ha602ff2
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-10-18T03:30:38.796140005Z"
+    description: A Helm chart for Kubernetes
+    digest: 65f507f607358ca4ad7be95dd9779e02fc822727cdca840ce88bcde192ca07bf
+    name: unnamed
+    urls:
+    - https://2i2c.org/frx-challenges-helm-chart/unnamed-0.0.1-0.dev.git.320.h272f18a.tgz
+    version: 0.0.1-0.dev.git.320.h272f18a
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-10-18T03:08:22.240352674Z"
+    description: A Helm chart for Kubernetes
+    digest: 5c4f4f820e8ea3ff6d3c5ba37ce2d65aefbbaa09c543ed0ec2577ec29ba3a122
+    name: unnamed
+    urls:
+    - https://2i2c.org/frx-challenges-helm-chart/unnamed-0.0.1-0.dev.git.317.h585acb5.tgz
+    version: 0.0.1-0.dev.git.317.h585acb5
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-10-18T02:57:50.045145418Z"
+    description: A Helm chart for Kubernetes
+    digest: e9d1f77762926942cc175313b0a56ae287d41abd2dd9bf785a4611c7ad912efc
+    name: unnamed
+    urls:
+    - https://2i2c.org/frx-challenges-helm-chart/unnamed-0.0.1-0.dev.git.308.h61cf4a6.tgz
+    version: 0.0.1-0.dev.git.308.h61cf4a6
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-10-18T02:27:21.205567851Z"
+    description: A Helm chart for Kubernetes
+    digest: 79274cba5ad751e6fc56009cbbf48ea9b6c108bbd546a5bd6ed85100e45d10b6
+    name: unnamed
+    urls:
+    - https://2i2c.org/frx-challenges-helm-chart/unnamed-0.0.1-0.dev.git.306.hf22d7fa.tgz
+    version: 0.0.1-0.dev.git.306.hf22d7fa
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-10-18T02:24:28.169639159Z"
+    description: A Helm chart for Kubernetes
+    digest: 88aaeb721228306ba1cf095c02ece1a98fe786acfd0e9f54835a8a786cc350e9
+    name: unnamed
+    urls:
+    - https://2i2c.org/frx-challenges-helm-chart/unnamed-0.0.1-0.dev.git.305.h0c1b64e.tgz
+    version: 0.0.1-0.dev.git.305.h0c1b64e
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-10-17T22:43:21.9239406Z"
+    description: A Helm chart for Kubernetes
+    digest: 77807fa2012b8a3c2f78b75635ff3c49b7331733d8c932fd761e49f8e2f321f5
+    name: unnamed
+    urls:
+    - https://2i2c.org/frx-challenges-helm-chart/unnamed-0.0.1-0.dev.git.304.h1ddf26d.tgz
+    version: 0.0.1-0.dev.git.304.h1ddf26d
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-10-17T22:28:15.240207769Z"
+    description: A Helm chart for Kubernetes
+    digest: c42c3b4824e32a81f2cd3f993666718c845e18b4ea4271da65438462b7ec7c34
+    name: unnamed
+    urls:
+    - https://2i2c.org/frx-challenges-helm-chart/unnamed-0.0.1-0.dev.git.303.ha91ead3.tgz
+    version: 0.0.1-0.dev.git.303.ha91ead3
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-10-17T20:42:01.204525554Z"
+    description: A Helm chart for Kubernetes
+    digest: f0f8654411be63eabad2e6c73b5a9db5e0de54029406e6db0c14682492bd8f65
+    name: unnamed
+    urls:
+    - https://2i2c.org/frx-challenges-helm-chart/unnamed-0.0.1-0.dev.git.302.ha7e8b06.tgz
+    version: 0.0.1-0.dev.git.302.ha7e8b06
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-10-17T19:29:43.236884602Z"
+    description: A Helm chart for Kubernetes
+    digest: 1825dc28003daceffeeef8c1f106323be32deb9d0c378d26346d436ef086026f
+    name: unnamed
+    urls:
+    - https://2i2c.org/frx-challenges-helm-chart/unnamed-0.0.1-0.dev.git.301.h82d0c47.tgz
+    version: 0.0.1-0.dev.git.301.h82d0c47
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-10-17T16:30:14.498037879Z"
+    description: A Helm chart for Kubernetes
+    digest: 51021b43e55edb7e9b25e159b0832ae9d634e9107bbff7617b02ea9c57980363
+    name: unnamed
+    urls:
+    - https://2i2c.org/frx-challenges-helm-chart/unnamed-0.0.1-0.dev.git.300.hb9044f5.tgz
+    version: 0.0.1-0.dev.git.300.hb9044f5
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-10-17T15:21:05.991806422Z"
+    description: A Helm chart for Kubernetes
+    digest: 24342742bec214e7722bb313f26456a66d9c701a28a5010e50d441d97b17b5d2
+    name: unnamed
+    urls:
+    - https://2i2c.org/frx-challenges-helm-chart/unnamed-0.0.1-0.dev.git.294.h2d2c66e.tgz
+    version: 0.0.1-0.dev.git.294.h2d2c66e
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-10-17T02:42:09.440407535Z"
+    description: A Helm chart for Kubernetes
+    digest: fc650add81d85215fc38e115cc8c92cfb29f5409a1abdafcad15f1d4fa78873b
+    name: unnamed
+    urls:
+    - https://2i2c.org/frx-challenges-helm-chart/unnamed-0.0.1-0.dev.git.291.h0323ef0.tgz
+    version: 0.0.1-0.dev.git.291.h0323ef0
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-10-16T14:19:10.078746425Z"
+    description: A Helm chart for Kubernetes
+    digest: f4a6b7dfca9693f0d0e582217a43d71931876943ef4a44648423f27b020509d2
+    name: unnamed
+    urls:
+    - https://2i2c.org/frx-challenges-helm-chart/unnamed-0.0.1-0.dev.git.289.h04832d0.tgz
+    version: 0.0.1-0.dev.git.289.h04832d0
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-10-16T03:19:47.839480705Z"
+    description: A Helm chart for Kubernetes
+    digest: bb2b7c65cc6655978b9cb284766f0131f0d80f7f13a8b716f6d9c39ae734e712
+    name: unnamed
+    urls:
+    - https://2i2c.org/frx-challenges-helm-chart/unnamed-0.0.1-0.dev.git.286.h05ea7fc.tgz
+    version: 0.0.1-0.dev.git.286.h05ea7fc
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-10-16T03:01:33.278657141Z"
+    description: A Helm chart for Kubernetes
+    digest: 14d7df6c14867cf650cece78e0f769e00f5e8a189583fd29664a8ad73261e16b
+    name: unnamed
+    urls:
+    - https://2i2c.org/frx-challenges-helm-chart/unnamed-0.0.1-0.dev.git.284.hce713be.tgz
+    version: 0.0.1-0.dev.git.284.hce713be
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-10-11T02:57:20.493729073Z"
+    description: A Helm chart for Kubernetes
+    digest: 203118a0e2520cd8a4705feaefaaeebbbe24016c26035db264ed78ae42be8e13
+    name: unnamed
+    urls:
+    - https://2i2c.org/frx-challenges-helm-chart/unnamed-0.0.1-0.dev.git.239.hb941c59.tgz
+    version: 0.0.1-0.dev.git.239.hb941c59
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-10-10T18:11:11.944749371Z"
+    description: A Helm chart for Kubernetes
+    digest: e74a2d6c1d27f92183395ff0c5e65ebc5bd911ae32cf478c528ce9085259827b
+    name: unnamed
+    urls:
+    - https://2i2c.org/frx-challenges-helm-chart/unnamed-0.0.1-0.dev.git.234.h52cb2c8.tgz
+    version: 0.0.1-0.dev.git.234.h52cb2c8
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-10-10T17:42:56.80736887Z"
+    description: A Helm chart for Kubernetes
+    digest: 4e08945a33cdc10151d18f77aa4dff76e00cecbf299a3415003a16bcab396fbe
+    name: unnamed
+    urls:
+    - https://2i2c.org/frx-challenges-helm-chart/unnamed-0.0.1-0.dev.git.231.h0e7c5a4.tgz
+    version: 0.0.1-0.dev.git.231.h0e7c5a4
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-10-10T17:36:33.7232016Z"
+    description: A Helm chart for Kubernetes
+    digest: 992b64b1b0b798dc1a9110eff63de5f039d16b1cf765b42cfaca8b507e821a20
+    name: unnamed
+    urls:
+    - https://2i2c.org/frx-challenges-helm-chart/unnamed-0.0.1-0.dev.git.229.h61b9c89.tgz
+    version: 0.0.1-0.dev.git.229.h61b9c89
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-10-09T13:40:51.152974889Z"
+    description: A Helm chart for Kubernetes
+    digest: 3f416d008ab9da373866f73b7f6953b07bd290e7e95d134590a4793f7a48d842
+    name: unnamed
+    urls:
+    - https://2i2c.org/frx-challenges-helm-chart/unnamed-0.0.1-0.dev.git.225.hefa5f70.tgz
+    version: 0.0.1-0.dev.git.225.hefa5f70
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-10-09T13:21:37.157066961Z"
+    description: A Helm chart for Kubernetes
+    digest: ba31deb3f02f5c5077d302ac23591cee21d4b52ad55d059f0aa59071409e8b90
+    name: unnamed
+    urls:
+    - https://2i2c.org/frx-challenges-helm-chart/unnamed-0.0.1-0.dev.git.223.h74868a0.tgz
+    version: 0.0.1-0.dev.git.223.h74868a0
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-10-08T15:47:25.019048768Z"
+    description: A Helm chart for Kubernetes
+    digest: de043c676ec6b8da9c7ea27e8453aa7206ee0d2ddaad89c6195f6eabb994cd7c
+    name: unnamed
+    urls:
+    - https://2i2c.org/frx-challenges-helm-chart/unnamed-0.0.1-0.dev.git.220.h767e902.tgz
+    version: 0.0.1-0.dev.git.220.h767e902
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-10-08T14:48:02.648210475Z"
+    description: A Helm chart for Kubernetes
+    digest: b9422b37addfdc3c75a00681183e36ea59c7adbb883c327c9e77b0613e608af8
+    name: unnamed
+    urls:
+    - https://2i2c.org/frx-challenges-helm-chart/unnamed-0.0.1-0.dev.git.218.ha4b5bf7.tgz
+    version: 0.0.1-0.dev.git.218.ha4b5bf7
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-10-07T12:23:08.434509968Z"
+    description: A Helm chart for Kubernetes
+    digest: ea29afec69cd59da2e4dda92243f7a9f75af2175c596a64229042711a2a4beea
+    name: unnamed
+    urls:
+    - https://2i2c.org/frx-challenges-helm-chart/unnamed-0.0.1-0.dev.git.216.he00b373.tgz
+    version: 0.0.1-0.dev.git.216.he00b373
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-10-07T10:13:32.350516949Z"
+    description: A Helm chart for Kubernetes
+    digest: 86c30cd8f7bb47d7afa3ecb86c68de40d40537af838f987ce8c115f61dca918a
+    name: unnamed
+    urls:
+    - https://2i2c.org/frx-challenges-helm-chart/unnamed-0.0.1-0.dev.git.213.ha393c48.tgz
+    version: 0.0.1-0.dev.git.213.ha393c48
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-10-04T09:31:23.052656909Z"
+    description: A Helm chart for Kubernetes
+    digest: cfad8dcc2eed4c7f2bcdc70c9da8d1ea827b43a9c25f24da508483aec8257ebe
+    name: unnamed
+    urls:
+    - https://2i2c.org/frx-challenges-helm-chart/unnamed-0.0.1-0.dev.git.208.h82a8394.tgz
+    version: 0.0.1-0.dev.git.208.h82a8394
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-10-03T14:30:11.490482942Z"
+    description: A Helm chart for Kubernetes
+    digest: 72031183e54f8ef20e59dcf5d23fda545253f6de4504948fbbf22d0cf628388e
+    name: unnamed
+    urls:
+    - https://2i2c.org/frx-challenges-helm-chart/unnamed-0.0.1-0.dev.git.207.h23959fc.tgz
+    version: 0.0.1-0.dev.git.207.h23959fc
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-09-27T17:33:01.675366809Z"
+    description: A Helm chart for Kubernetes
+    digest: e248e01fddadd539050d8e2ae127f9e2fd5006360727cf98d6f10494bcbe8122
+    name: unnamed
+    urls:
+    - https://2i2c.org/frx-challenges-helm-chart/unnamed-0.0.1-0.dev.git.205.ha41b1b4.tgz
+    version: 0.0.1-0.dev.git.205.ha41b1b4
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-09-27T17:30:53.234748473Z"
+    description: A Helm chart for Kubernetes
+    digest: 69aa844b20d13d6984099ba61c496f47cbd3c7c0ae43d08b3e989808518177f6
+    name: unnamed
+    urls:
+    - https://2i2c.org/frx-challenges-helm-chart/unnamed-0.0.1-0.dev.git.203.h94ce9e3.tgz
+    version: 0.0.1-0.dev.git.203.h94ce9e3
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-09-27T17:21:08.00690367Z"
+    description: A Helm chart for Kubernetes
+    digest: 5d4a94c8f74a08a074cf0e7ae6414fd8777a1fe50931700eef32973b7dd6182e
+    name: unnamed
+    urls:
+    - https://2i2c.org/frx-challenges-helm-chart/unnamed-0.0.1-0.dev.git.200.h02d838b.tgz
+    version: 0.0.1-0.dev.git.200.h02d838b
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-09-27T16:57:10.346473734Z"
+    description: A Helm chart for Kubernetes
+    digest: 6546da7a0529ead9cbbd06593176d1985c889ddfb750376da225b4447f668762
+    name: unnamed
+    urls:
+    - https://2i2c.org/frx-challenges-helm-chart/unnamed-0.0.1-0.dev.git.198.he2f3e8a.tgz
+    version: 0.0.1-0.dev.git.198.he2f3e8a
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-09-27T09:47:27.098098527Z"
+    description: A Helm chart for Kubernetes
+    digest: 17eb53f09a183e4042bd32c4770e16fa6e97c83779c5344087d049a85ac7884b
+    name: unnamed
+    urls:
+    - https://2i2c.org/frx-challenges-helm-chart/unnamed-0.0.1-0.dev.git.194.h9eda936.tgz
+    version: 0.0.1-0.dev.git.194.h9eda936
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-09-27T09:13:25.364766871Z"
+    description: A Helm chart for Kubernetes
+    digest: 36930ff561568c933f0df1414909d7ddead8ee81df40008d9edb9c23d2d318ff
+    name: unnamed
+    urls:
+    - https://2i2c.org/frx-challenges-helm-chart/unnamed-0.0.1-0.dev.git.190.h83aa695.tgz
+    version: 0.0.1-0.dev.git.190.h83aa695
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-09-26T19:13:19.265141066Z"
+    description: A Helm chart for Kubernetes
+    digest: 7e16aa500ff33264dffe0cfdbd487eab08994c66404ecebc3b8095ea90349fd3
+    name: unnamed
+    urls:
+    - https://2i2c.org/frx-challenges-helm-chart/unnamed-0.0.1-0.dev.git.183.hd1a31c1.tgz
+    version: 0.0.1-0.dev.git.183.hd1a31c1
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-09-25T18:03:33.459213925Z"
+    description: A Helm chart for Kubernetes
+    digest: c13564eb3a96676b5874fa6e7223684c1a832826f4b320b16a5a84cd1b06c4e6
+    name: unnamed
+    urls:
+    - https://2i2c.org/frx-challenges-helm-chart/unnamed-0.0.1-0.dev.git.181.haf927c3.tgz
+    version: 0.0.1-0.dev.git.181.haf927c3
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-09-25T14:45:01.017663304Z"
+    description: A Helm chart for Kubernetes
+    digest: 9e0d39714fd7f6fb4423fe55afc12bcfbb81642081e8216bd3e2973727aa8f03
+    name: unnamed
+    urls:
+    - https://2i2c.org/frx-challenges-helm-chart/unnamed-0.0.1-0.dev.git.180.he43861f.tgz
+    version: 0.0.1-0.dev.git.180.he43861f
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-09-25T12:26:39.076429207Z"
+    description: A Helm chart for Kubernetes
+    digest: 91061d3afbb25c6369a18eab03f45d7b7a733321acd3d4c5df981aa5292bde35
+    name: unnamed
+    urls:
+    - https://2i2c.org/frx-challenges-helm-chart/unnamed-0.0.1-0.dev.git.179.h1c00158.tgz
+    version: 0.0.1-0.dev.git.179.h1c00158
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-09-25T08:13:56.484803516Z"
+    description: A Helm chart for Kubernetes
+    digest: f6fe4652431360dce063d2a00ea56984a8e3e0d16ef5110c7c53429fb7e56d84
+    name: unnamed
+    urls:
+    - https://2i2c.org/frx-challenges-helm-chart/unnamed-0.0.1-0.dev.git.177.h5516948.tgz
+    version: 0.0.1-0.dev.git.177.h5516948
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-09-24T17:09:53.931842035Z"
+    description: A Helm chart for Kubernetes
+    digest: e4ad8c56b5688b2f6193bb86f6b6a98a3ed59037389049fd6b65531386176161
+    name: unnamed
+    urls:
+    - https://2i2c.org/frx-challenges-helm-chart/unnamed-0.0.1-0.dev.git.173.h24149b0.tgz
+    version: 0.0.1-0.dev.git.173.h24149b0
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-09-24T15:31:45.377187593Z"
+    description: A Helm chart for Kubernetes
+    digest: 47a71e91292ea0d4f468363f485b2f79e9497adaad42b4135b859c44ca4f9117
+    name: unnamed
+    urls:
+    - https://2i2c.org/frx-challenges-helm-chart/unnamed-0.0.1-0.dev.git.170.h8b15fd6.tgz
+    version: 0.0.1-0.dev.git.170.h8b15fd6
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-09-23T18:55:41.392757037Z"
+    description: A Helm chart for Kubernetes
+    digest: a19c5cdeaa2b2a067924793b1b65a0e5fade55213934e6634e2bf4dc11410e0b
+    name: unnamed
+    urls:
+    - https://2i2c.org/frx-challenges-helm-chart/unnamed-0.0.1-0.dev.git.168.h7074c29.tgz
+    version: 0.0.1-0.dev.git.168.h7074c29
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-09-23T18:33:37.514257386Z"
+    description: A Helm chart for Kubernetes
+    digest: 1bcb262debaf8529161021e6d57221cbf49d6271f810dbbcee89bdcf2a18ecc7
+    name: unnamed
+    urls:
+    - https://2i2c.org/frx-challenges-helm-chart/unnamed-0.0.1-0.dev.git.165.h9f2763e.tgz
+    version: 0.0.1-0.dev.git.165.h9f2763e
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-09-23T17:35:29.540138003Z"
+    description: A Helm chart for Kubernetes
+    digest: 0cff572d858914bda0af39325067597ff0807149867c473762911df572b952ec
+    name: unnamed
+    urls:
+    - https://2i2c.org/frx-challenges-helm-chart/unnamed-0.0.1-0.dev.git.162.h2b95b68.tgz
+    version: 0.0.1-0.dev.git.162.h2b95b68
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-09-23T12:21:12.564662401Z"
+    description: A Helm chart for Kubernetes
+    digest: 19eadb04fce39c16e4149d996c8bd1787b84d890c0866a4e087f15e0ccacdf09
+    name: unnamed
+    urls:
+    - https://2i2c.org/frx-challenges-helm-chart/unnamed-0.0.1-0.dev.git.160.h64746d3.tgz
+    version: 0.0.1-0.dev.git.160.h64746d3
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-09-23T10:48:30.960053028Z"
+    description: A Helm chart for Kubernetes
+    digest: a8c601107d0a73fb3e04d9f083a0f3f8711a0ac64e4212c87610a6b97b90d165
+    name: unnamed
+    urls:
+    - https://2i2c.org/frx-challenges-helm-chart/unnamed-0.0.1-0.dev.git.157.h0b2ab87.tgz
+    version: 0.0.1-0.dev.git.157.h0b2ab87
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-09-19T11:47:09.138391401Z"
+    description: A Helm chart for Kubernetes
+    digest: 92b5645378b8f876d346b2e920a0a941243af327cdc1c14438cd2b4967d98a31
+    name: unnamed
+    urls:
+    - https://2i2c.org/frx-challenges-helm-chart/unnamed-0.0.1-0.dev.git.153.h006ce20.tgz
+    version: 0.0.1-0.dev.git.153.h006ce20
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-09-18T13:33:47.648979716Z"
+    description: A Helm chart for Kubernetes
+    digest: 4783b11e1220ac043982a2aa4c8dca1fea4c4c0900eaf8eec79ab5a1a9fbc4a4
+    name: unnamed
+    urls:
+    - https://2i2c.org/frx-challenges-helm-chart/unnamed-0.0.1-0.dev.git.150.h92f4384.tgz
+    version: 0.0.1-0.dev.git.150.h92f4384
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-09-18T13:25:45.284157695Z"
+    description: A Helm chart for Kubernetes
+    digest: 33dcb9cc75be2fb591131d96b665446d77aefb6120c0ed0be98b9f69323538e5
+    name: unnamed
+    urls:
+    - https://2i2c.org/frx-challenges-helm-chart/unnamed-0.0.1-0.dev.git.147.h771121e.tgz
+    version: 0.0.1-0.dev.git.147.h771121e
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-09-18T13:24:24.699509984Z"
+    description: A Helm chart for Kubernetes
+    digest: eca7363a71f2f20b426d64c5e36c6913bc4b4dc7a0a3fecb073e6d3f532f848e
+    name: unnamed
+    urls:
+    - https://2i2c.org/frx-challenges-helm-chart/unnamed-0.0.1-0.dev.git.145.h2d88f5c.tgz
+    version: 0.0.1-0.dev.git.145.h2d88f5c
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-09-18T12:14:36.571948402Z"
+    description: A Helm chart for Kubernetes
+    digest: 715be47fb007b2770f4bf075eac8696b5dcba127fa7af76ee9a9b6690716feb4
+    name: unnamed
+    urls:
+    - https://2i2c.org/frx-challenges-helm-chart/unnamed-0.0.1-0.dev.git.142.h1c40f39.tgz
+    version: 0.0.1-0.dev.git.142.h1c40f39
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-09-11T15:57:06.434940951Z"
+    description: A Helm chart for Kubernetes
+    digest: 2883bdecf0ff9a1035434e80ed64392d527d9d61f313812269d3a001aa9e9c08
+    name: unnamed
+    urls:
+    - https://2i2c.org/frx-challenges-helm-chart/unnamed-0.0.1-0.dev.git.139.hf6470af.tgz
+    version: 0.0.1-0.dev.git.139.hf6470af
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-09-11T14:50:01.384645276Z"
+    description: A Helm chart for Kubernetes
+    digest: 1fa8bb116e49a0dc06beade587eacf683770d9479feab6def01562b5aa8151b6
+    name: unnamed
+    urls:
+    - https://2i2c.org/frx-challenges-helm-chart/unnamed-0.0.1-0.dev.git.137.h28dd25a.tgz
+    version: 0.0.1-0.dev.git.137.h28dd25a
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-09-11T14:38:18.674582207Z"
+    description: A Helm chart for Kubernetes
+    digest: c7ac7e83f80367e3d8fbbf17d0476c7515818631bc318e8c2e18be5badbefb09
+    name: unnamed
+    urls:
+    - https://2i2c.org/frx-challenges-helm-chart/unnamed-0.0.1-0.dev.git.135.h411c5ff.tgz
+    version: 0.0.1-0.dev.git.135.h411c5ff
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-09-11T14:28:53.079105591Z"
+    description: A Helm chart for Kubernetes
+    digest: 7a390e57773a99d97d1102993b26e1c982751f446aa5ef0d5aad558721f95ed8
+    name: unnamed
+    urls:
+    - https://2i2c.org/frx-challenges-helm-chart/unnamed-0.0.1-0.dev.git.133.h7a0ceb1.tgz
+    version: 0.0.1-0.dev.git.133.h7a0ceb1
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-09-11T14:22:39.848432195Z"
+    description: A Helm chart for Kubernetes
+    digest: 519c0b96f0b07a1660121b2a4d4f16d6b1e403f81a7682ca270b68cffc7dfec7
+    name: unnamed
+    urls:
+    - https://2i2c.org/frx-challenges-helm-chart/unnamed-0.0.1-0.dev.git.132.h1e98671.tgz
+    version: 0.0.1-0.dev.git.132.h1e98671
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-09-11T11:38:33.104177987Z"
+    description: A Helm chart for Kubernetes
+    digest: 50566569f6b67280e81d165953faa8cd8a005eb094524600b7678a3da09e40ff
+    name: unnamed
+    urls:
+    - https://2i2c.org/frx-challenges-helm-chart/unnamed-0.0.1-0.dev.git.126.h4cbc0ab.tgz
+    version: 0.0.1-0.dev.git.126.h4cbc0ab
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-09-10T12:39:25.30761081Z"
+    description: A Helm chart for Kubernetes
+    digest: 80e415a0944f1ebf2534c4e65a33c20e40315a584b8577c11fea6e9566ddfb6e
+    name: unnamed
+    urls:
+    - https://2i2c.org/frx-challenges-helm-chart/unnamed-0.0.1-0.dev.git.125.h2270463.tgz
+    version: 0.0.1-0.dev.git.125.h2270463
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-09-10T12:25:38.57138418Z"
+    description: A Helm chart for Kubernetes
+    digest: eff4b4f41d50162134a3febf1614157888b48c960b6d965a2e57ec0ce7290d48
+    name: unnamed
+    urls:
+    - https://2i2c.org/frx-challenges-helm-chart/unnamed-0.0.1-0.dev.git.123.hbdd3f83.tgz
+    version: 0.0.1-0.dev.git.123.hbdd3f83
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-09-10T11:28:02.58231839Z"
+    description: A Helm chart for Kubernetes
+    digest: ea66b2f3549deab434ee4a3643adeee6e1b2750dc969e2662594d8f51c467ae6
+    name: unnamed
+    urls:
+    - https://2i2c.org/frx-challenges-helm-chart/unnamed-0.0.1-0.dev.git.121.he63ca76.tgz
+    version: 0.0.1-0.dev.git.121.he63ca76
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-09-10T11:12:19.125150391Z"
+    description: A Helm chart for Kubernetes
+    digest: 97ad6ed80c1ac7893b38007c3216bf76009ffe43a6d28ad0a6d0cac5f2d3fc37
+    name: unnamed
+    urls:
+    - https://2i2c.org/frx-challenges-helm-chart/unnamed-0.0.1-0.dev.git.119.h07921cd.tgz
+    version: 0.0.1-0.dev.git.119.h07921cd
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-09-09T16:32:31.597569266Z"
+    description: A Helm chart for Kubernetes
+    digest: 4fc4f8db24f46b87284b72d1a972cc86a22b68970e695c5588a5563fda8fc659
+    name: unnamed
+    urls:
+    - https://2i2c.org/frx-challenges-helm-chart/unnamed-0.0.1-0.dev.git.117.h8f71f83.tgz
+    version: 0.0.1-0.dev.git.117.h8f71f83
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-09-09T16:19:14.80354417Z"
+    description: A Helm chart for Kubernetes
+    digest: b1f4b5e4a8aa33a31cffc24cccdb7672481872f661aa1d80e196dfc7576c5070
+    name: unnamed
+    urls:
+    - https://2i2c.org/frx-challenges-helm-chart/unnamed-0.0.1-0.dev.git.115.hbd92848.tgz
+    version: 0.0.1-0.dev.git.115.hbd92848
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-09-09T15:49:21.106838308Z"
+    description: A Helm chart for Kubernetes
+    digest: 3d3f3859c127345650aacc8d2a61ae93b6c64010db400a6e2fc8df7ae8b76dd5
+    name: unnamed
+    urls:
+    - https://2i2c.org/frx-challenges-helm-chart/unnamed-0.0.1-0.dev.git.112.h664c6a4.tgz
+    version: 0.0.1-0.dev.git.112.h664c6a4
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-09-09T14:30:40.432205894Z"
+    description: A Helm chart for Kubernetes
+    digest: 801e2a2be9428bdcf167e7edb7a4c67e9565c0e02922f2ab57be50b06a724c70
+    name: unnamed
+    urls:
+    - https://2i2c.org/frx-challenges-helm-chart/unnamed-0.0.1-0.dev.git.111.h2c7de0f.tgz
+    version: 0.0.1-0.dev.git.111.h2c7de0f
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-09-09T09:49:19.050407232Z"
+    description: A Helm chart for Kubernetes
+    digest: 7241c169061d8d611bd22d05f7842534e062ffff1dc36dd731b9e042f2b640b0
+    name: unnamed
+    urls:
+    - https://2i2c.org/frx-challenges-helm-chart/unnamed-0.0.1-0.dev.git.109.hd023810.tgz
+    version: 0.0.1-0.dev.git.109.hd023810
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-09-06T11:01:02.552005331Z"
+    description: A Helm chart for Kubernetes
+    digest: 24ee5a4f85e66aec78730c4c7b73ed6b3dab535d02a5c483366d99d42475cad4
+    name: unnamed
+    urls:
+    - https://2i2c.org/frx-challenges-helm-chart/unnamed-0.0.1-0.dev.git.103.ha3aa7dc.tgz
+    version: 0.0.1-0.dev.git.103.ha3aa7dc
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-09-05T13:38:54.987641256Z"
+    description: A Helm chart for Kubernetes
+    digest: f86285d6913663c22a38c410d56c2c8f4c9a890033da7973d80a1964dd7030fc
+    name: unnamed
+    urls:
+    - https://2i2c.org/frx-challenges-helm-chart/unnamed-0.0.1-0.dev.git.100.hc07f6bc.tgz
+    version: 0.0.1-0.dev.git.100.hc07f6bc
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-09-05T12:01:07.530860608Z"
+    description: A Helm chart for Kubernetes
+    digest: 32bbe29e56785a958ea09686718ccfd4fc1ff2436d25a40361bf52ee5842af6d
+    name: unnamed
+    urls:
+    - https://2i2c.org/frx-challenges-helm-chart/unnamed-0.0.1-0.dev.git.100.h855251e.tgz
+    version: 0.0.1-0.dev.git.100.h855251e
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-09-05T12:25:35.48196677Z"
+    description: A Helm chart for Kubernetes
+    digest: ecc26ded6e4343b5cfb7770176a9a35f38cf42a7f4983688111b7ae4f1dad8ba
+    name: unnamed
+    urls:
+    - https://2i2c.org/frx-challenges-helm-chart/unnamed-0.0.1-0.dev.git.99.hc83da36.tgz
+    version: 0.0.1-0.dev.git.99.hc83da36
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-09-05T10:29:14.636930632Z"
+    description: A Helm chart for Kubernetes
+    digest: 62ddfa0aac91a3a48f7b59c588b94f21df5545cf09b515d4fc822631ac5aa114
+    name: unnamed
+    urls:
+    - https://2i2c.org/frx-challenges-helm-chart/unnamed-0.0.1-0.dev.git.99.h5c58923.tgz
+    version: 0.0.1-0.dev.git.99.h5c58923
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-09-05T13:31:00.666884107Z"
+    description: A Helm chart for Kubernetes
+    digest: 9b9b946243de9b4bc1b04f48c98213ea402b639d90ed356fc6e2e7a5b154101d
+    name: unnamed
+    urls:
+    - https://2i2c.org/frx-challenges-helm-chart/unnamed-0.0.1-0.dev.git.99.h2e51855.tgz
+    version: 0.0.1-0.dev.git.99.h2e51855
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-09-05T10:14:25.450867383Z"
+    description: A Helm chart for Kubernetes
+    digest: c65cf56a24719fe61d8fb4d48061c3f5e6cdc2375e6be1ff8dd2c5816abf39b5
+    name: unnamed
+    urls:
+    - https://2i2c.org/frx-challenges-helm-chart/unnamed-0.0.1-0.dev.git.98.h4b20478.tgz
+    version: 0.0.1-0.dev.git.98.h4b20478
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-09-05T10:01:16.642158786Z"
+    description: A Helm chart for Kubernetes
+    digest: b7fd93d7967b59236bc5b634a7ffdf3faeb971df698565584a3a2c59293fdc14
+    name: unnamed
+    urls:
+    - https://2i2c.org/frx-challenges-helm-chart/unnamed-0.0.1-0.dev.git.96.h9445d33.tgz
+    version: 0.0.1-0.dev.git.96.h9445d33
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-09-05T09:46:59.315311081Z"
+    description: A Helm chart for Kubernetes
+    digest: 195ac28b7aa67bbc885adedfc4b46646853e9e781fc5724e0cfdad6532d4f9f0
+    name: unnamed
+    urls:
+    - https://2i2c.org/frx-challenges-helm-chart/unnamed-0.0.1-0.dev.git.91.hf49d863.tgz
+    version: 0.0.1-0.dev.git.91.hf49d863
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-09-04T13:37:30.437309487Z"
+    description: A Helm chart for Kubernetes
+    digest: d22da029bf69fa26a528608ce3fbe87ee2fc036059b62cd91cf5dba607ba4382
+    name: unnamed
+    urls:
+    - https://2i2c.org/frx-challenges-helm-chart/unnamed-0.0.1-0.dev.git.89.h2fe62f3.tgz
+    version: 0.0.1-0.dev.git.89.h2fe62f3
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-09-04T13:27:39.818158379Z"
+    description: A Helm chart for Kubernetes
+    digest: dc66db956b726b48ccdee76193b77ff4d20da94763ffa7fca58b4cb3661b6f93
+    name: unnamed
+    urls:
+    - https://2i2c.org/frx-challenges-helm-chart/unnamed-0.0.1-0.dev.git.87.h0dee479.tgz
+    version: 0.0.1-0.dev.git.87.h0dee479
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-09-04T10:00:41.139226309Z"
+    description: A Helm chart for Kubernetes
+    digest: a7cc109212c89af5953bdfb00493385a64878712bc62019ffd04caee0a355080
+    name: unnamed
+    urls:
+    - https://2i2c.org/frx-challenges-helm-chart/unnamed-0.0.1-0.dev.git.86.hdc39917.tgz
+    version: 0.0.1-0.dev.git.86.hdc39917
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-09-04T08:49:07.03839497Z"
+    description: A Helm chart for Kubernetes
+    digest: 92fd2e5f6702ede60cd3b88068477b017bfe168f6c8ca6899f5cebd4b1eabfe6
+    name: unnamed
+    urls:
+    - https://2i2c.org/frx-challenges-helm-chart/unnamed-0.0.1-0.dev.git.85.h0576c13.tgz
+    version: 0.0.1-0.dev.git.85.h0576c13
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-09-04T08:33:30.010950947Z"
+    description: A Helm chart for Kubernetes
+    digest: 73291b50e1b7c245cc5eed4f7d9701ac71931908fb989095d9746e6495548fe3
+    name: unnamed
+    urls:
+    - https://2i2c.org/frx-challenges-helm-chart/unnamed-0.0.1-0.dev.git.84.h2b33c7f.tgz
+    version: 0.0.1-0.dev.git.84.h2b33c7f
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-09-04T07:19:11.376737031Z"
+    description: A Helm chart for Kubernetes
+    digest: d314a4641acbb7705d448a32552089908d2c839d2f9fe78a6dc320a12dd972b9
+    name: unnamed
+    urls:
+    - https://2i2c.org/frx-challenges-helm-chart/unnamed-0.0.1-0.dev.git.83.h7a2d9df.tgz
+    version: 0.0.1-0.dev.git.83.h7a2d9df
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-09-03T18:06:54.024556833Z"
+    description: A Helm chart for Kubernetes
+    digest: 4893c2098bee1da5d860154c8960cc3f44f160ef4297be3178d22aa24209bfc5
+    name: unnamed
+    urls:
+    - https://2i2c.org/frx-challenges-helm-chart/unnamed-0.0.1-0.dev.git.82.h60c7938.tgz
+    version: 0.0.1-0.dev.git.82.h60c7938
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-09-04T07:02:14.59313724Z"
+    description: A Helm chart for Kubernetes
+    digest: 132be464d1da3e92a58c0f31caad4e946acd7d6767fe0fab101b2dd9e1e9d1c2
+    name: unnamed
+    urls:
+    - https://2i2c.org/frx-challenges-helm-chart/unnamed-0.0.1-0.dev.git.82.h0b910ed.tgz
+    version: 0.0.1-0.dev.git.82.h0b910ed
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-09-04T06:50:33.214420203Z"
+    description: A Helm chart for Kubernetes
+    digest: 0244e199ac137cf2acc054ecd10ed1feb859ac00a3f741ac535610fb379d0ad8
+    name: unnamed
+    urls:
+    - https://2i2c.org/frx-challenges-helm-chart/unnamed-0.0.1-0.dev.git.81.h4b6bed5.tgz
+    version: 0.0.1-0.dev.git.81.h4b6bed5
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-09-03T16:11:46.124105051Z"
+    description: A Helm chart for Kubernetes
+    digest: faa06ead360b33c1013eea06bf4bd1e0427cd44efe7932f9883eaba28d2e773e
+    name: unnamed
+    urls:
+    - https://2i2c.org/frx-challenges-helm-chart/unnamed-0.0.1-0.dev.git.81.h2da1ebb.tgz
+    version: 0.0.1-0.dev.git.81.h2da1ebb
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-09-03T15:54:06.534816018Z"
+    description: A Helm chart for Kubernetes
+    digest: 9657c5089b801c92ec4353c391884c803b9c4aeabbad42bd0188cc0636ef2cf8
+    name: unnamed
+    urls:
+    - https://2i2c.org/frx-challenges-helm-chart/unnamed-0.0.1-0.dev.git.80.h83182d6.tgz
+    version: 0.0.1-0.dev.git.80.h83182d6
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-09-03T15:44:35.963021148Z"
+    description: A Helm chart for Kubernetes
+    digest: 44b4f99cb95404a4174b00c04faee47e43b00165a32c579e7e9327c2947556e8
+    name: unnamed
+    urls:
+    - https://2i2c.org/frx-challenges-helm-chart/unnamed-0.0.1-0.dev.git.79.hef53c29.tgz
+    version: 0.0.1-0.dev.git.79.hef53c29
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-09-03T15:07:45.939769458Z"
+    description: A Helm chart for Kubernetes
+    digest: beb64e18deade7588bffb577bcc1d4f7da3ecc6c15a6eef934247340f7a714a3
+    name: unnamed
+    urls:
+    - https://2i2c.org/frx-challenges-helm-chart/unnamed-0.0.1-0.dev.git.78.h6f9b38c.tgz
+    version: 0.0.1-0.dev.git.78.h6f9b38c
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-09-03T14:52:21.511322333Z"
+    description: A Helm chart for Kubernetes
+    digest: 87fb2c7e914637ec26cabe57b3c0c2acdb9addb0fb237c8022861557b7a72f3b
+    name: unnamed
+    urls:
+    - https://2i2c.org/frx-challenges-helm-chart/unnamed-0.0.1-0.dev.git.76.h5108158.tgz
+    version: 0.0.1-0.dev.git.76.h5108158
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-09-03T14:34:25.268245738Z"
+    description: A Helm chart for Kubernetes
+    digest: 80c5fdfe542bbb7c23ea7517cd4483155913abd28c6da83c76ef8dc9d44bef1f
+    name: unnamed
+    urls:
+    - https://2i2c.org/frx-challenges-helm-chart/unnamed-0.0.1-0.dev.git.75.hb66fc93.tgz
+    version: 0.0.1-0.dev.git.75.hb66fc93
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-09-03T14:18:38.033150536Z"
+    description: A Helm chart for Kubernetes
+    digest: 32c098b13e4e0feb046a94aaa8d4c166e92cdb0950cc1f41241b4f538b69ad81
+    name: unnamed
+    urls:
+    - https://2i2c.org/frx-challenges-helm-chart/unnamed-0.0.1-0.dev.git.74.hb8971dd.tgz
+    version: 0.0.1-0.dev.git.74.hb8971dd
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-09-03T14:03:40.050461012Z"
+    description: A Helm chart for Kubernetes
+    digest: 40e0aa2e5810b74bd7d474970278bdafe0e8e5069d137b38a19c9e47d528ed48
+    name: unnamed
+    urls:
+    - https://2i2c.org/frx-challenges-helm-chart/unnamed-0.0.1-0.dev.git.72.hcd8c0ad.tgz
+    version: 0.0.1-0.dev.git.72.hcd8c0ad
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-09-03T14:02:24.932679115Z"
+    description: A Helm chart for Kubernetes
+    digest: 5b7016d1db21f5f5a7858a80f07734fd56b20c5c281928dc9f2622f7b2d95903
+    name: unnamed
+    urls:
+    - https://2i2c.org/frx-challenges-helm-chart/unnamed-0.0.1-0.dev.git.71.h7d28797.tgz
+    version: 0.0.1-0.dev.git.71.h7d28797
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-09-03T13:42:00.061122366Z"
+    description: A Helm chart for Kubernetes
+    digest: d1e4518ee297f3d638680adbda83b40067eaae16e4ad55b4cc98e085bc855bdd
+    name: unnamed
+    urls:
+    - https://2i2c.org/frx-challenges-helm-chart/unnamed-0.0.1-0.dev.git.68.h6cac2e4.tgz
+    version: 0.0.1-0.dev.git.68.h6cac2e4
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-08-29T12:08:55.585459946Z"
+    description: A Helm chart for Kubernetes
+    digest: 55f255ae9e9d9624bc5776490aa8c96912948611b4f7f752a14ed04da9459d30
+    name: unnamed
+    urls:
+    - https://2i2c.org/frx-challenges-helm-chart/unnamed-0.0.1-0.dev.git.63.hb4ce3fd.tgz
+    version: 0.0.1-0.dev.git.63.hb4ce3fd
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-08-29T09:55:43.315599545Z"
+    description: A Helm chart for Kubernetes
+    digest: 9c5a4f6d6474439bb709c197ccf08f0981f2a0d69b3edf9b31902f3b1ed6c092
+    name: unnamed
+    urls:
+    - https://2i2c.org/frx-challenges-helm-chart/unnamed-0.0.1-0.dev.git.62.heb8d2ca.tgz
+    version: 0.0.1-0.dev.git.62.heb8d2ca
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-08-29T09:34:37.343926629Z"
+    description: A Helm chart for Kubernetes
+    digest: 2484a08227739f214a49f660ed10705a9f7ac6a8666391161de1668737a59f53
+    name: unnamed
+    urls:
+    - https://2i2c.org/frx-challenges-helm-chart/unnamed-0.0.1-0.dev.git.61.h027ddbe.tgz
+    version: 0.0.1-0.dev.git.61.h027ddbe
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-08-23T08:28:03.321244027Z"
+    description: A Helm chart for Kubernetes
+    digest: 3ec4f5275accb2117661d2167f2bde26f0b6526bacb8921b216a8a50e2a5da89
+    name: unnamed
+    urls:
+    - https://2i2c.org/frx-challenges-helm-chart/unnamed-0.0.1-0.dev.git.60.hdab71e5.tgz
+    version: 0.0.1-0.dev.git.60.hdab71e5    
 generated: "2024-10-27T12:24:09.715057332Z"
