@@ -1,4 +1,4 @@
-art repository for FRX Challenges.
+# Chart repository for FRX Challenges
 
 This is a bare Helm chart repository specifically for the FRX Challenges chart.
 
