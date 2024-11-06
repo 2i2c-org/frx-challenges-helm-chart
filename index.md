@@ -9,6 +9,7 @@ This is a bare Helm chart repository specifically for the FRX Challenges chart.
 |---------|------|---------------------|
   {%- assign sortedcharts = chartmap[1] | sort: 'created' | reverse %}
   {%- for chart in sortedcharts %}
+    {%- assign created_timestamp = chart.created | date: "%s" | plus: 0 %}
 | [{{ chart.version }}]({{ chart.urls[0] }}) | {{ chart.created | date_to_long_string }} | {{ chart.appVersion }} |
   {%- endfor %}
-{%- endfor %}
+{% endfor %}
