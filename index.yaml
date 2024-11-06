@@ -3,6 +3,15 @@ entries:
   frx-challenges:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2024-11-06T10:23:11.960801524Z"
+    description: A Helm chart for Kubernetes
+    digest: 70b7b7adcc51546258e584faf22fe369a558c68f8fd55984fde945d4d8af1de5
+    name: frx-challenges
+    urls:
+    - https://2i2c.org/frx-challenges-helm-chart/frx-challenges-0.0.1-0.dev.git.383.h7faba09.tgz
+    version: 0.0.1-0.dev.git.383.h7faba09
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2024-11-04T11:05:32.909576852Z"
     description: A Helm chart for Kubernetes
     digest: be87fe108984149a4f9e21a5ddc282bd1cf572ac2de10e85b79205204005bd97
@@ -992,4 +1001,4 @@ entries:
     urls:
     - https://2i2c.org/frx-challenges-helm-chart/unnamed-0.0.1-0.dev.git.60.hdab71e5.tgz
     version: 0.0.1-0.dev.git.60.hdab71e5
-generated: "2024-11-04T11:05:32.90905558Z"
+generated: "2024-11-06T10:23:11.960329561Z"
